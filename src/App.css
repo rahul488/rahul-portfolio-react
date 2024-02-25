@@ -78,7 +78,7 @@
 
 .mode-icon {
   position: fixed;
-  bottom: 10px;
+  bottom: 70px;
   border: 1px solid rgb(177, 204, 186);
   border-radius: 50%;
   left: 5px;
@@ -87,7 +87,7 @@
 
 .up-arrow-icon {
   position: fixed;
-  bottom: 10px;
+  bottom: 70px;
   right: 5px;
   z-index: 999;
 }
